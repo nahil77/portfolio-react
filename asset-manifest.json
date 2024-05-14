@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.dedb4f6b.css",
+    "main.js": "/portfolio-react/static/js/main.bd41a5ea.js",
+    "static/media/aboutbg.jpg": "/portfolio-react/static/media/aboutbg.638ca33cc9088d4383b2.jpg",
+    "static/media/resumebg.jpg": "/portfolio-react/static/media/resumebg.9361c56db07e66937472.jpg",
+    "static/media/welcome.png": "/portfolio-react/static/media/welcome.7befc75e577cbbae0c2b.png",
+    "static/media/Lobster-Regular.ttf": "/portfolio-react/static/media/Lobster-Regular.03c38496322925fec242.ttf",
+    "static/media/welcome4.png": "/portfolio-react/static/media/welcome4.1bb2f02ff8e9f278f108.png",
+    "static/media/welcome1.png": "/portfolio-react/static/media/welcome1.83a4f1e5e723e48a3e1e.png",
+    "static/media/welcome2.png": "/portfolio-react/static/media/welcome2.f293d193fca749994034.png",
+    "static/media/welcome3.png": "/portfolio-react/static/media/welcome3.1ead19ecd0e91d9ac1cb.png",
+    "static/media/ferrum.otf": "/portfolio-react/static/media/ferrum.fee691b2d05f8aa4f020.otf",
+    "static/media/11.20___.TTF": "/portfolio-react/static/media/11.20___.6ca6a9f2887d21e006a8.TTF",
+    "index.html": "/portfolio-react/index.html",
+    "main.dedb4f6b.css.map": "/portfolio-react/static/css/main.dedb4f6b.css.map",
+    "main.bd41a5ea.js.map": "/portfolio-react/static/js/main.bd41a5ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dedb4f6b.css",
+    "static/js/main.bd41a5ea.js"
+  ]
+}
