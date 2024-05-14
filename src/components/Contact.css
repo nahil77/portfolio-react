@@ -1,0 +1,100 @@
+.bg-image {
+    background-image: url("../Assets/Images/resumebg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
+
+.caption3 {
+    position: absolute;
+    top: 22%;
+    left: 25%;
+    right: 25%;
+    color: white;
+    position: fixed;
+    font-family: ferrum;
+}
+
+.caption3 h2 svg{
+    font-size: 50px;
+}
+ @media screen and (max-width:1200px) {
+    .caption3{
+        top: 22%;
+        left: 16%;
+        right: 16%;
+   }
+    .caption3 h1{
+       font-size: 35px;
+   }
+    .caption3 h3{
+        font-size: 22px;
+   }
+ }
+ @media screen and (max-width:992px) {
+    .caption3{
+        top: 20%;
+        left:10% ;
+        right:10% ;
+   }
+    .caption3 h1{
+       font-size: 30px;
+   }
+    .caption3 h2 svg{
+        font-size: 45px;
+   }
+    .caption3 h3{
+        font-size: 20px;
+   }
+ }
+ @media screen and (max-width:768px) {
+    .caption3{
+        top: 17%;
+        left:10% ;
+        right:10% ;
+   }
+    .caption3 h1{
+       font-size: 25px;
+       text-align: start;
+   }
+    .caption3 h2 svg{
+        font-size: 40px;
+   }
+    .caption3 h3{
+        font-size: 17px;
+   }
+    .caption3 h5{
+        font-size: 17px;
+   }
+ }
+ @media screen and (max-width:576px) {
+    .caption3{
+        top: 15%;
+        left:10% ;
+        right:10% ;
+   }
+    .caption3 h1{
+       font-size: 22px;
+   }
+    .caption3 h2 svg{
+        font-size: 35px;
+   }
+    .caption3 h3{
+        font-size: 15px;
+   }
+    .caption3 h5{
+        font-size: 15px;
+   }
+   
+ }
+
+.mrg-r-20{
+    margin-right: 20px;
+}
+.mrg-r-100{
+    margin-right: 100px;
+}

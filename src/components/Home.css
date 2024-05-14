@@ -1,0 +1,55 @@
+section{
+    background-image: url("../Assets/Images/welcome.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+@media screen and (max-width:1200px) {
+    section{
+        background-image: url("../Assets/Images/welcome4.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        height: 100vh;
+        width: 100%;
+    }
+}
+@media screen and (max-width:992px) {
+    section{
+        background-image: url("../Assets/Images/welcome1.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        height: 100vh;
+        width: 100%;
+    }
+}
+@media screen and (max-width:768px) {
+    section{
+        background-image: url("../Assets/Images/welcome2.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        height: 100vh;
+        width: 100%;
+    }
+}
+@media screen and (max-width:576px) {
+    section{
+        background-image: url("../Assets/Images/welcome3.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        height: 100vh;
+        width: 100%;
+    }
+}
+

@@ -1,0 +1,207 @@
+.bg-img {
+    background-image: url("../Assets/Images/aboutbg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.caption {
+    position: absolute;
+    top: 20%;
+    left: 3%;
+    color: white;
+    position: fixed;
+}
+
+.caption h1 {
+    font-size: 70px;
+    font-style: italic; 
+}
+
+@media screen and (max-width:1400px) {
+    .caption h1 {
+        font-size: 60px;
+        font-style: italic; 
+    }
+}
+@media screen and (max-width:1200px) {
+    .caption h1 {
+        font-size: 55px;
+        font-style: italic; 
+    }
+}
+@media screen and (max-width:992px) {
+    .caption h1 {
+        font-size: 50px;
+        font-style: italic; 
+    }
+}
+@media screen and (max-width:768px) {
+    .caption h1 {
+        font-size: 40px;
+        font-style: italic; 
+    }
+}
+@media screen and (max-width:576px) {
+    .caption h1 {
+        font-size: 32px;
+        font-style: italic; 
+    }
+    .caption{
+        left: 8%;
+    }
+
+}
+
+.caption h2 {
+    font-size: 50px;
+    font-style: italic; 
+}
+
+@media screen and (max-width:1400px) {
+    .caption h2 {
+        font-size: 45px;
+        font-style: italic; 
+    }
+}
+@media screen and (max-width:1200px) {
+    .caption h2 {
+        font-size: 40px;
+        font-style: italic; 
+    }
+}
+@media screen and (max-width:992px) {
+    .caption h2 {
+        font-size: 35px;
+        font-style: italic; 
+    }
+}
+@media screen and (max-width:768px) {
+    .caption h2 {
+        font-size: 30px;
+        font-style: italic; 
+    }
+}
+@media screen and (max-width:576px) {
+    .caption h2 {
+        font-size: 25px;
+        font-style: italic; 
+    }
+}
+
+.caption h3{
+    font-size: 40px;
+}
+
+@media screen and (max-width:1400px) {
+    .caption h3{
+        font-size: 39px;
+    }
+}
+@media screen and (max-width:1200px) {
+    .caption h3{
+        font-size: 38px;
+    }
+}
+@media screen and (max-width:992px) {
+    .caption h3{
+        font-size: 35px;
+    }
+}
+@media screen and (max-width:768px) {
+    .caption h3{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:576px) {
+    .caption h3{
+        font-size: 28px;
+    }
+}
+
+.caption h4{
+    font-size: 22px;
+}
+
+@media screen and (max-width:1400px) {
+    .caption h4{
+    font-size: 22px;
+}
+}
+@media screen and (max-width:1200px) {
+    .caption h4{
+    font-size: 18px;
+}
+}
+@media screen and (max-width:992px) {
+    .caption h4{
+    font-size: 17px;
+}
+}
+@media screen and (max-width:768px) {
+    .caption h4 {
+    font-size: 16px;
+}
+}
+@media screen and (max-width:576px) {
+    .caption h4{
+    font-size: 13px;
+}
+}
+
+.caption span{
+    margin-right: 50px;
+}
+
+@media screen and (max-width:1400px) {
+    .caption span{
+        margin-right: 40px;
+    }
+}
+@media screen and (max-width:1200px) {
+    .caption span{
+        margin-right: 35px;
+    }
+}
+@media screen and (max-width:992px) {
+    .caption span{
+        margin-right: 30px;
+    }
+}
+@media screen and (max-width:768px) {
+    .caption span{
+        margin-right: 25px;
+    }
+}
+@media screen and (max-width:576px) {
+    .caption span{
+        margin-right: 20px;
+    }
+}
+
+@font-face {
+    font-family: eleven;
+    src: url(../Assets/fonts/11.20___.TTF);
+}
+
+.eleven{
+    font-family: eleven;
+}
+@font-face {
+    font-family: lobster;
+    src: url(../Assets/fonts/Lobster-Regular.ttf);
+}
+
+.lobster{
+    font-family: lobster;
+    line-height: 2;
+}
+
+@media screen and (max-width:576px) {
+    .sm-pl{
+        padding-left: 0px;
+    }
+}
