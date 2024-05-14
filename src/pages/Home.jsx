@@ -1,12 +1,15 @@
 import React from 'react'
-import HomeBanner from '../components/HomeBanner'
+import "../components/Home.css"
 
 
 const Home = () => {
   return (
     <div>
-      <HomeBanner/>
+      <section>
+
+    </section>
     </div>
+    
     
   )
 }
