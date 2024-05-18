@@ -12,7 +12,7 @@ import ContactMe from "./pages/ContactMe";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/portfolio-react">
         <Header/>
         <Routes>
           <Route path="/" element={<Home/>} />
